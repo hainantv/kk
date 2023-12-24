@@ -1,11 +1,3 @@
-#EXTM3U url-tvg="https://github.com/akkradet/IPTV-THAI/raw/master/guide.xml,https://www.bevy.be/bevyfiles/thailand.xml" refresh="3600" 
-
-# Join Telegram Group: https://t.me/iptvth
-# =======================================================
-# Playlist Name: My Playlist by Akkradet
-# Last Update: 2023-12-10 22:08:43 UTC+07 ICT
-# =======================================================
-
 #EXTINF:-1 tvg-chno="1"  tvg-id="iptv.th" tvg-name="IPTV THAILAND" group-title="Thai TV" tvg-logo="https://i.imgur.com/OsD28mZ.jpg",IPTV THAILAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://raw.githubusercontent.com/akkradet/IPTV-THAI/master/intro.mp4
