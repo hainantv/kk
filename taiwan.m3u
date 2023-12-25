@@ -1,21 +1,179 @@
-星空卫视,http://183.237.246.14:9003/hls/40/index.m3u8
-中视,https://hls.ulivetv.net/v/live/cl7c5tec5wow.m3u8?
-华视,https://hls.ulivetv.net/v/live/cl7c4wxioc00.m3u8?
-TVB HD,https://hls.ulivetv.net/v/live/cg0hzu3sgc00.m3u8?
-TVB 欢乐台,https://hls.ulivetv.net/v/live/d314fs4kxem8.m3u8?
-晴天卡通台,https://hls.ulivetv.net/v/live/ciw8f5pwdghs.m3u8?
-MOM亲子台,https://hls.ulivetv.net/v/live/cl7cd4sc85a8.m3u8?
-NEXTTV HD,https://hls.ulivetv.net/v/live/cfxwzsgnhnls.m3u8?
-TITV,https://hls.ulivetv.net/v/live/clectmxixadc.m3u8?
-娱乐新闻台,https://hls.ulivetv.net/v/live/cnkh00kniz0g.m3u8?
-HOY,https://hls.ulivetv.net/v/live/crq2e7quuukg.m3u8?
-ELTA 体育1,https://hls.ulivetv.net/v/live/clecyhjewngg.m3u8?
-ELTA 体育2,https://hls.ulivetv.net/v/live/clecysls7oow.m3u8?
-ELTA 体育3,https://hls.ulivetv.net/v/live/cnnh2pl4cam8.m3u8?
-ELEVEN体育1,https://hls.ulivetv.net/v/live/cg1mg0pkbi68.m3u8?
-ELEVEN体育2,https://hls.ulivetv.net/v/live/cg1mlp24a2tc.m3u8?
-RHK32,https://hls.ulivetv.net/v/live/cfxs3n0cxs5c.m3u8?
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
-番薯台,http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb24]/wh7f454c46tw3553140416_-2021535160/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1668336354&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰中文
+http://[2409:8087:2001:20:2800:0:df6e:eb25]:80/wh7f454c46tw2443888236_158039228/ott.mobaibox.com/PLTV/3/224/3221228527/index.m3u8?icpid=3&RTS=1674369674&from=40&popid=40&hms_devid=2292&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰资讯
+http://[2409:8087:2001:20:2800:0:df6e:eb27]:80/wh7f454c46tw1890984412_1778241929/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1674373416&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
+#EXTINF:-1,凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb1d]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台" ,翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MA3A7166615971666159&ct=19226&tsum=abeff4c5d0d1ad10147a21ebc6cc5182
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/翡翠台" tvg-id="翡翠台" tvg-name="翡翠台" ,翡翠台
+http://198.16.100.90:8278/jade_twn/playlist.m3u8?tid=MDAD1890217018902170&ct=19249&tsum=36346362d72a1e85802fa5d3eee3861c
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/明珠台" tvg-id="明珠台" tvg-name="明珠台" ,明珠台
+http://198.16.100.90:8278/pearl_twn/playlist.m3u8?tid=MC6C7041327570413275&ct=19226&tsum=681972baf66d69caf7cccc92a90e5aad
+#EXTINF:-1,J2
+http://r.jdshipin.com/Nr5jq
+#EXTINF:-1,无线新闻
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MF7F8784108987841089&ct=19225&tsum=50d719a9ed62cc070153963585e6d9d3
+#EXTINF:-1,无线新闻
+http://198.16.100.90:8278/inews_twn/playlist.m3u8?tid=MD8D9734527497345274&ct=19249&tsum=88c5d57f9fdce89810d61e1001910a80
+#EXTINF:-1,面包台
+https://video.bread-tv.com:8091/hls-live24/online/index.m3u8
+#EXTINF:-1,ViuTV6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MF0F4217630642176306&ct=19249&tsum=33becc0fe8466036420dbbb4727dc49e
+#EXTINF:-1,ViuTV6
+http://50.7.238.114:8278/viusix_twn/playlist.m3u8?tid=MD7D9950629799506297&ct=19234&tsum=83ba3013be3e325b775bcd348b38eab1
+#EXTINF:-1,新加坡中文台
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8?zshijd
+#EXTINF:-1,新加坡国际
+https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_4.m3u8
+#EXTINF:-1,TVBS新闻台
+http://38.64.72.148/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
+#EXTINF:-1,TVBS新闻台
+http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1,TVBS亚洲
+http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1,TVBS亚洲
+http://38.64.72.148:80/hls/modn/list/4005/chunklist1.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台" ,民视新闻台
+http://198.16.100.90:8278/ftvnew_taiwan/playlist.m3u8?tid=ME4E4172771041727710&ct=19226&tsum=7b91c7af6212419479b392ff575e0689
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台" ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视新闻台" tvg-id="民视新闻台" tvg-name="民视新闻台" ,民视新闻台
+http://38.64.72.148:80/hls/modn/list/4012/chunklist1.m3u8
+#EXTINF:-1,台视新闻
+http://198.16.100.90:8278/ttvnews_twn/playlist.m3u8?tid=MD9D1039476110394761&ct=19193&tsum=9f33349842788bfb7b0e90e93f7bf02c
+#EXTINF:-1,台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,台视新闻
+http://38.64.72.148:80/hls/modn/list/4013/chunklist1.m3u8
+#EXTINF:-1,台视新闻
+http://38.64.72.148/hls/modn/list/4013/chunklist0.m3u8
+#EXTINF:-1,非凡新闻
+http://50.7.238.114:8278/feifannews_twn/playlist.m3u8?tid=m050e7aad65f614336734&ct=17874&tsum=4ea1b829d195ac69a6c2ca51b21ae378
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/中视" tvg-id="中视" tvg-name="中视" ,中视
+http://198.16.100.90:8278/zhongshihd_twn/playlist.m3u8?tid=MB4B2404962324049623&ct=19193&tsum=671b112a447ed494ae6219c14d0fab93
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视第一台" tvg-id="民视第一台" tvg-name="民视第一台" ,民视第一台
+http://198.16.100.90:8278/lunghuajingdian_twn/playlist.m3u8?tid=ME8E7785888977858889&ct=19226&tsum=a7c782372313ea616d8fced1cebdfbab
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视台湾台" tvg-id="民视台湾台" tvg-name="民视台湾台" ,民视台湾台
+http://198.16.100.90:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视台湾台" tvg-id="民视台湾台" tvg-name="民视台湾台" ,民视台湾台
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MDFD6045594360455943&ct=19193&tsum=0de4f998b15ba8f2ecdaa107d866212a
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视台湾台" tvg-id="民视台湾台" tvg-name="民视台湾台" ,民视台湾台
+http://50.7.238.114:8278/ftvtaiwan_twn/playlist.m3u8?tid=MEFE5254515252545152&ct=19249&tsum=c17f872b1772df8f76032030cc40bdbd
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/三立都会台" tvg-id="三立都会台" tvg-name="三立都会台" ,三立都会台
+http://50.7.238.114:8278/sanlidouhui_twn/playlist.m3u8?tid=md028b33ea0f7&ct=19361&tsum=1930e4b2cfbbd2f9f821af1c41e8d18d
+#EXTINF:-1,星卫电影台
+http://50.7.238.114:8278/xingwei_movie/playlist.m3u8?tid=MBDB4578128345781283&ct=19225&tsum=f2041ec954c95b4a5fe29d7ccbfe5b60
+#EXTINF:-1,靖天国际台
+http://50.7.238.114:8278/jingtianintl_twn/playlist.m3u8?tid=ME4E7632479576324795&ct=19226&tsum=9922eeed6392b21e1710ba791cc599d6
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/八大戏剧台" tvg-id="八大戏剧台" tvg-name="八大戏剧台" ,八大戏剧台
+http://198.16.100.90:8278/badadrama/playlist.m3u8?tid=m6e4372d7fc8217605152&ct=17874&tsum=d9af89e299560350336e22c1418e6b54
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/八大综合台" tvg-id="八大综合台" tvg-name="八大综合台" ,八大综合台
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=MC5C5422299054222990&ct=19193&tsum=8189d5b21bdeabdffa3d2b2cbeaae0ae
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/八大综合台" tvg-id="八大综合台" tvg-name="八大综合台" ,八大综合台
+http://50.7.238.114:8278/badazhonghe/playlist.m3u8?tid=mfb8d64b6276514171054&ct=17874&tsum=a87466c997089ea7dce98cd17301667d
+#EXTINF:-1,东森戏剧
+http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/东森超视" tvg-id="东森超视" tvg-name="东森超视" ,东森超视
+http://198.16.100.90:8278/ettvsuper/playlist.m3u8?tid=MA4A3005409230054092&ct=19225&tsum=c5d89f66fa1a8bcd26f482d4a370def5
+#EXTINF:-1,中天娱乐
+http://50.7.238.114:8278/ctient/playlist.m3u8?tid=MDED1780059017800590&ct=19226&tsum=4d05ea700aa8fd436b51ce703680e674
+#EXTINF:-1,环球电视台
+http://zb.xzxwhcb.com:9999/hls/world.m3u8
+#EXTINF:-1,番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w705811302.m3u8
+#EXTINF:-1,番薯
+http://61.216.67.119:1935/TWHG/E1/chunklist_w7058102.m3u8
+#EXTINF:-1,华语电视
+http://38.64.72.148:80/hls/modn/list/4003/chunklist0.m3u8
+#EXTINF:-1,长城精品
+http://38.64.72.148:80/hls/modn/list/4008/chunklist0.m3u8
+#EXTINF:-1,HBO
+http://50.7.238.114:8278/hbosignature_twn/playlist.m3u8?tid=MC5C5754321157543211&ct=19225&tsum=2b86077147813534b4cae6dd85bb3c4a
+#EXTINF:-1,CINEMAX
+http://198.16.100.90:8278/cinemax_twn/playlist.m3u8?tid=MF6F1142326311423263&ct=19254&tsum=716939f2b6d75d0bb83a4c780e00dbd3
+#EXTINF:-1,TLC旅游生活
+http://198.16.100.90:8278/tlc_twn/playlist.m3u8?tid=MA0A5904082259040822&ct=19226&tsum=8fa7deead1d4b260825af15bc7378132
+#EXTINF:-1,好消息综合台
+https://dqhxk7sbp7xog.cloudfront.net/hls-live/goodtv/_definst_/liveevent/live-ch1-2.m3u8
+#EXTINF:-1,国家地理
+http://198.16.100.90:8278/natgeohd_twn/playlist.m3u8?tid=MB5B4841803948418039&ct=18393&tsum=a2343b2c061fc9de3fa7857e832d9625
+#EXTINF:-1,探索亚洲
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=m42a2d91d6f2413622196&ct=17874&tsum=3653c4c61f0a0443dbb256dc465b4715
+#EXTINF:-1,探索频道
+http://198.16.100.90:8278/discoveryhd_twn/playlist.m3u8?tid=ME6E2405719624057196&ct=19225&tsum=57a7c421c65e00c1b8f68f67c30141dc
+#EXTINF:-1,探索频道
+http://198.16.100.90:8278/ba86fcd935/playlist.m3u8?tid=m1b458a366fcb&ct=18335&tsum=6ee1498a5e37d8bd1e3f62954629ed4f
+#EXTINF:-1,探索频道
+http://198.16.100.90:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&ct=18393&tsum=5b966ba17918ab0d7dd4c462d1b0b811
+#EXTINF:-1,民视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+#EXTINF:-1,三立iNEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+#EXTINF:-1,三立NEWS+
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+#EXTINF:-1,中天新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+#EXTINF:-1,TVBS新闻
+http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+#EXTINF:-1,TVBS NEWS
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+#EXTINF:-1,东森新闻
+http://211.23.114.106:8510/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1,台视新闻
+https://ytm2.yuanhsing.cf/ttvnewsview.m3u8
+#EXTINF:-1,台视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+#EXTINF:-1,中视新闻
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+#EXTINF:-1,中视新闻
+https://ytm2.yuanhsing.cf/twctvnews.m3u8
+#EXTINF:-1,FOX新闻
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1,镜新闻Mnews
+https://ytm2.yuanhsing.cf/mnews.m3u8
+#EXTINF:-1,寰宇国际新闻
+https://ytm2.yuanhsing.cf/GlobalNewsTV.m3u8
+#EXTINF:-1 tvg-logo="http://wtv.tools.yigechengzi.pro/prod/api/v1/tvg/logo/民视" tvg-id="民视" tvg-name="民视" ,民视HD
+http://198.16.100.90:8278/ftvhd_taiwan/playlist.m3u8?tid=MC8C5908644059086440&ct=19249&tsum=c96d2cd48b11d40ca9e97fb3addb1384
+#EXTINF:-1,华视综艺
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV26.m3u8
+#EXTINF:-1,华视综艺
+https://ytm2.yuanhsing.cf/TBSCTSSHOW.m3u8
+#EXTINF:-1,华视戏剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV12.m3u8
+#EXTINF:-1,华视戏剧
+https://ytm2.yuanhsing.cf/ctsprog.m3u8
+#EXTINF:-1,八大电视
+https://ytm2.yuanhsing.cf/GTVDRAMA.m3u8
+#EXTINF:-1,卫视电影
+http://211.23.114.106:8525/http/116.50.42.19:8081/hls/64/806/ch16.m3u8
+#EXTINF:-1,GOOD卡通
+http://live.streamingfast.net/osmflivech45.m3u8
+#EXTINF:-1,寰宇新闻台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+#EXTINF:-1,MOMO1台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV04.m3u8
+#EXTINF:-1,MOMO2台
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV05.m3u8
+#EXTINF:-1,三立台湾
+http://211.23.114.106:8521/http/60.251.39.91:8081/hls/65/807/ch20.m3u8
+#EXTINF:-1,三立新闻
+http://125.227.210.55:35238/VideoInput/play.ts
+#EXTINF:-1,东森新闻
+http://211.23.114.106:8540/http/60.251.39.91:8081/hls/63/805/ch10.m3u8
+#EXTINF:-1,东森财经
+https://ytm2.yuanhsing.cf/EBCFinancial.m3u8
+#EXTINF:-1,东森财经
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+#EXTINF:-1,民视戏剧
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV76.m3u8
+#EXTINF:-1,民视戏剧
+https://ytm2.yuanhsing.cf/FTVDRAMA.m3u8
