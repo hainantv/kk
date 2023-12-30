@@ -21,37 +21,37 @@ http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000134/ind
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海口3
 http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000135/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",琼海
-http://153.0.60.100:9999/udp/239.253.64.106:5140
+http://http://202.100.223.104.46:99999/udp/239.253.64.106:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",文昌
-http://153.0.60.100:9999/udp/239.253.64.105:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.105:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",白沙
-http://153.0.60.100:9999/udp/239.253.64.118:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.118:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",保亭
-http://153.0.60.100:9999/udp/239.253.64.159:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.159:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",昌江
-http://153.0.60.100:9999/udp/239.253.64.108:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.108:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",澄迈
-http://153.0.60.100:9999/udp/239.253.64.109:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.109:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",儋州
-http://153.0.60.100:9999/udp/239.253.64.107:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.107:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",定安
-http://153.0.60.100:9999/udp/239.253.64.110:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.110:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",东方
-http://153.0.60.100:9999/udp/239.253.64.111:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.111:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",乐东
-http://153.0.60.100:9999/udp/239.253.64.166:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.166:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",临高
-http://153.0.60.100:9999/udp/239.253.64.155:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.155:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",陵水
-http://153.0.60.100:9999/udp/239.253.64.116:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.116:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",琼中
-http://153.0.60.100:9999/udp/239.253.64.165:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.165:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",屯昌
-http://153.0.60.100:9999/udp/239.253.64.117:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.117:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",万宁
-http://153.0.60.100:9999/udp/239.253.64.167:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.167:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",三亚1
-http://153.0.60.100:9999/udp/239.253.64.152:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.152:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",三亚1
-http://153.0.60.100:9999/udp/239.253.64.156:5140
+http://http://202.100.223.104.46:9999/udp/239.253.64.156:5140
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",三亚1
