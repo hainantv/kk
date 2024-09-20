@@ -1,6 +1,6 @@
 测试,#genre#
 
-星空卫视,http://avd.iptviptv.site:9694/hls/703/index.m3u8
+星空卫视,http-user-agent=okhttp/3.15http://avd.iptviptv.site:9694/hls/703/index.m3u8
 翡翠台,http://avd.iptviptv.site:9694/hls/98/index.m3u8
 美亚电影,http://avd.iptviptv.site:9694/hls/904/index.m3u8
 新闻综合,http://avd.iptviptv.site:9694/hls/267/index.m3u8
