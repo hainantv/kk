@@ -1,2 +1,3 @@
-#EXTINF:-1 ,CCTV1#EXTVLCOPT:http-user-agent=okhttp/3.15
-http://avd.iptviptv.site:9694/hls/98/index.m3u8
+#EXTINF:-1 ,CCTV1
+#EXTVLCOPT:http-user-agent=okhttp/3.15
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
