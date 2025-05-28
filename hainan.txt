@@ -1,3 +1,5 @@
+海南频道,#genre#
+
 海南卫视,http://192.168.1.128:5678/hainan.php?id=hnws
 三沙卫视,http://192.168.1.128:5678/hainan.php?id=ssws
 海南新闻,http://192.168.1.128:5678/hainan.php?id=xwpd
