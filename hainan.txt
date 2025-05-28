@@ -1,0 +1,11 @@
+海南卫视,http://192.168.1.128:5678/hainan.php?id=hnws
+三沙卫视,http://192.168.1.128:5678/hainan.php?id=ssws
+海南新闻,http://192.168.1.128:5678/hainan.php?id=xwpd
+海南自贸,http://192.168.1.128:5678/hainan.php?id=jjpd
+海南少儿,http://192.168.1.128:5678/hainan.php?id=sepd
+海南公共,http://192.168.1.128:5678/hainan.php?id=ggpd
+海南文旅,http://192.168.1.128:5678/hainan.php?id=wlpd
+海口频道1,https://www.hkbtv.cn/live/tv1001.m3u8
+海口频道2,https://www.hkbtv.cn/live/tv2502.m3u8
+海口频道3,https://www.hkbtv.cn/live/tv2503.m3u8
+
