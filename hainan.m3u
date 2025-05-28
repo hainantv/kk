@@ -1,25 +1,25 @@
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南少儿
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000323/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=sepd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南文旅
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000322/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=wlpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南公共
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000382/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=ggpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南自贸
-http://[2409:8087:5e01:34::21]:6610/ZTE_CMS/08984400000000060000000000000320/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=jjpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南新闻
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/08984400000000060000000000000321/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=xwpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海南卫视
-http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000017/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=hnws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",视听海南
 http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/08984400000000060000000000000440/index.m3u8?IAS
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",三沙卫视
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000208/index.m3u8?IAS
+http://192.168.1.128:5678/hainan.php?id=ssws
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海口1
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000133/index.m3u8?IAS
+https://www.hkbtv.cn/live/tv1001.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海口2
-http://[2409:8087:5e01:34::22]:6610/ZTE_CMS/00000001000000060000000000000134/index.m3u8?IAS
+https://www.hkbtv.cn/live/tv2502.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",海口3
-http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000135/index.m3u8?IAS
+https://www.hkbtv.cn/live/tv2503.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",琼海
 http://iptv.nastool.site:56789/udp/HItele.php?id=qhzh5
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="海南频道",文昌
