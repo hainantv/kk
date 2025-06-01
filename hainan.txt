@@ -131,3 +131,11 @@ SUPER Kids Channel,http://jxiptv.dpdns.org/stream/4gtv/superkidschannel/master.m
 江西教育电视台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
 西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
+
+
+肥羊链接,#genre#
+
+
+
+https://nptv.freetv.top/juhe.m3u
+
