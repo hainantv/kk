@@ -121,14 +121,13 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 海南测试,#genre#
 
-海南卫视,http://192.168.1.128:5678/hnn.php?id=hnws
-三沙卫视,http://192.168.1.128:5678/hnn.php?id=ssws
-海南新闻,http://192.168.1.128:5678/hnn.php?id=xwpd
-海南自贸,http://192.168.1.128:5678/hnn.php?id=jjpd
-海南少儿,http://192.168.1.128:5678/hnn.php?id=sepd
-海南公共,http://192.168.1.128:5678/hnn.php?id=ggpd
-海南文旅,http://192.168.1.128:5678/hnn.php?id=wlpd
+海南卫视,https://live2.hnntv.cn/srs/tv/lywsgq.m3u8?_upt=db8d0a4d1749037285
+三沙卫视,https://livessws.hnntv.cn/live/ssws_02hnntv.m3u8?_upt=9c7f13311749037284
+海南新闻,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=6db8a14c1749037373
+海南自贸,https://live2.hnntv.cn/srs/tv/jjpd.m3u8?_upt=8be54f341749037406
+海南少儿,https://live2.hnntv.cn/srs/tv/sepd.m3u8?_upt=6293fa101749037421
+海南公共,https://live2.hnntv.cn/srs/tv/ggpd.m3u8?_upt=bde1de691749037437
+海南文旅,https://live2.hnntv.cn/srs/tv/wlpd.m3u8?_upt=f24ffbe61749037504
 海口频道1,https://www.hkbtv.cn/live/tv1001.m3u8
 海口频道2,https://www.hkbtv.cn/live/tv2502.m3u8
 海口频道3,https://www.hkbtv.cn/live/tv2503.m3u8
-海南测试,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=c6ae09581749033286
