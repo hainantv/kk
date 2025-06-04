@@ -131,3 +131,4 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 海口频道1,https://www.hkbtv.cn/live/tv1001.m3u8
 海口频道2,https://www.hkbtv.cn/live/tv2502.m3u8
 海口频道3,https://www.hkbtv.cn/live/tv2503.m3u8
+海南测试,https://live2.hnntv.cn/srs/tv/xwpd.m3u8?_upt=c6ae09581749033286
