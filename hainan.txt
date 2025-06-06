@@ -1,180 +1,19 @@
-海南频道,#genre#
+海南备用,#genre#
 
-海南卫视,http://192.168.1.128:5678/hainan.php?id=hnws
-三沙卫视,http://192.168.1.128:5678/hainan.php?id=ssws
-海南新闻,http://192.168.1.128:5678/hainan.php?id=xwpd
-海南自贸,http://192.168.1.128:5678/hainan.php?id=jjpd
-海南少儿,http://192.168.1.128:5678/hainan.php?id=sepd
-海南公共,http://192.168.1.128:5678/hainan.php?id=ggpd
-海南文旅,http://192.168.1.128:5678/hainan.php?id=wlpd
+海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
+三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
+海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
+海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
+海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
+海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
+海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
 海口频道1,http://183.255.46.4:16080/live/tv1001.m3u8
 海口频道2,http://183.255.46.4:16080/live/tv2502.m3u8
 海口频道3,http://183.255.46.4:16080/live/tv2503.m3u8
 
 
 
-台湾频道,#genre#
-
-台湾|台视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ttv_taiwan
-台湾|台视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvnews_twn
-台湾|台视综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ttvzhonghe
-台湾|中视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshihd_twn
-台湾|中视新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshinews_twn
-台湾|中视经典,http://smt.iktv.ddns-ip.net/Smart.php?id=zhongshi_twn
-台湾|华视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ctshd_twn
-台湾|公视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv_taiwan
-台湾|公视台语台,http://smt.iktv.ddns-ip.net/Smart.php?id=ctv2_twn
-台湾|三立台湾台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlitaiwan
-台湾|三立都会台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlidouhui
-台湾|三立综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlizhonghe
-台湾|三立戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=sanlixiju_twn
-台湾|东森新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvnews
-台湾|东森财经新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvcaijing_twn
-台湾|东森综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvzhonghe
-台湾|东森戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvdrama
-台湾|东森电影台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
-台湾|东森洋片台,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvwestern
-台湾|东森幼幼台,http://smt.iktv.ddns-ip.net/Smart.php?id=yoyo_twn
-台湾|东森超视,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvsuper
-台湾|TVBS HD,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs
-台湾|TVBS 新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbs_n
-台湾|TVBS 欢乐台,http://smt.iktv.ddns-ip.net/Smart.php?id=tvbshuanle_twn
-台湾|民视 HD,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvhd_taiwan
-台湾|民视新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvnew_taiwan
-台湾|民视台湾台,http://smt.iktv.ddns-ip.net/Smart.php?id=ftvtaiwan_twn
-台湾|中天综合,http://smt.iktv.ddns-ip.net/Smart.php?id=ctizhonghe
-台湾|中天娱乐,http://smt.iktv.ddns-ip.net/Smart.php?id=ctient
-台湾|中天亚洲,http://smt.iktv.ddns-ip.net/Smart.php?id=ctiasia_twn
-台湾|中天新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=ctinews
-台湾|寰宇新闻台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyuxinwen_twn
-台湾|寰宇财经台,http://smt.iktv.ddns-ip.net/Smart.php?id=huanyutaiwan_twn
-台湾|八大第一台,http://smt.iktv.ddns-ip.net/Smart.php?id=badafirst
-台湾|八大综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=badazhonghe
-台湾|八大戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=badadrama
-台湾|八大娱乐台,http://smt.iktv.ddns-ip.net/Smart.php?id=badaentertain
-台湾|纬来体育,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandsport
-台湾|纬来精彩,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandspecial_twn
-台湾|纬来日本,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandjapan
-台湾|纬来电影,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandmovie
-台湾|纬来综合,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandzonghe
-台湾|纬来育乐,http://smt.iktv.ddns-ip.net/Smart.php?id=videolandyule
-台湾|爱尔达综合台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltazonghe_twn
-台湾|爱尔达影剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltayingju_twn
-台湾|爱尔达体育1台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport_twn
-台湾|爱尔达体育2台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport2_twn
-台湾|爱尔达体育3台,http://smt.iktv.ddns-ip.net/Smart.php?id=eltasport3_twn
-台湾|非凡新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=feifannews_twn
-台湾|年代新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=niandainews_twn
-台湾|龙华戏剧,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaxiju_twn
-台湾|龙华偶像,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuaidol_twn
-台湾|龙华电影,http://smt.iktv.ddns-ip.net/Smart.php?id=xingwei_movie
-台湾|龙华洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuawestern_twn
-台湾|龙华经典,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuajingdian_twn
-台湾|靖天国际,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtianintl_twn
-台湾|靖天卡通,http://smt.iktv.ddns-ip.net/Smart.php?id=jingtiancartoon_twn
-台湾|大愛電視,http://smt.iktv.ddns-ip.net/Smart.php?id=daai_twn
-台湾|大愛二台,http://smt.iktv.ddns-ip.net/Smart.php?id=daai2_twn
-台湾|EYE 旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvtravel_twn
-台湾|EYE 戏剧台,http://smt.iktv.ddns-ip.net/Smart.php?id=eyetvxiju_twn
-台湾|亚洲美食,http://smt.iktv.ddns-ip.net/Smart.php?id=afc_twn
-台湾|美食星球,http://smt.iktv.ddns-ip.net/Smart.php?id=foodplanet_twn
-台湾|TLC旅遊生活,http://smt.iktv.ddns-ip.net/Smart.php?id=tlc_twn
-台湾|亚洲旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
-台湾|Arirang,http://smt.iktv.ddns-ip.net/Smart.php?id=arirang_twn
-台湾|AXN Taiwan,http://smt.iktv.ddns-ip.net/Smart.php?id=axn_twn
-台湾|MTV Live,http://smt.iktv.ddns-ip.net/Smart.php?id=mtvhd_twn
-台湾|HBO_HD,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohd_twn
-台湾|HBO_HITS,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohit_twn
-台湾|CINEMAX,http://smt.iktv.ddns-ip.net/Smart.php?id=cinemax_twn
-台湾|好萊塢電影台,http://smt.iktv.ddns-ip.net/Smart.php?id=hollywoodmovies_twn
-台湾|卫视电影台,http://smt.iktv.ddns-ip.net/Smart.php?id=weishimovie_twn
-台湾|龙祥时代,http://smt.iktv.ddns-ip.net/Smart.php?id=lungxiangtime_twn
-台湾|美亚电影,http://smt.iktv.ddns-ip.net/Smart.php?id=meiyamovie_twn
-台湾|華藝綜合,http://smt.iktv.ddns-ip.net/Smart.php?id=weishichinese_twn
-台湾|博斯运动一台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport1_twn
-台湾|博斯运动二台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosisport2_twn
-台湾|博斯高球一台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf1_twn
-台湾|博斯高球二台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosigolf2_twn
-台湾|博斯网球台,http://smt.iktv.ddns-ip.net/Smart.php?id=bositennis_twn
-台湾|博斯无限台,http://smt.iktv.ddns-ip.net/Smart.php?id=bosiunlimited_twn
-台湾|好消息 2,http://smt.iktv.ddns-ip.net/Smart.php?id=good2_twn
-马来西亚|华丽台 HD （Wah Lai Toi）,http://smt.iktv.ddns-ip.net/Smart.php?id=Wlt
-马来西亚|欢喜台 HD （Hua Hee Tai）,http://smt.iktv.ddns-ip.net/Smart.php?id=Huahee
-马来西亚|TVB 星河台 Xing He,http://smt.iktv.ddns-ip.net/Smart.php?id=Xinhe
-马来西亚|爱奇艺 iQiyi,http://smt.iktv.ddns-ip.net/Smart.php?id=Qiyi
-马来西亚|AFC 亚洲旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
-纪录频道|Discovery Asia,http://smt.iktv.ddns-ip.net/Smart.php?id=discoverytwn_twn
-纪录频道|Asia Travel,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
-纪录频道|Discovery HD,http://smt.iktv.ddns-ip.net/Smart.php?id=discoveryhd_twn
-纪录频道|亚洲美食,http://smt.iktv.ddns-ip.net/Smart.php?id=afc_twn
-纪录频道|美食星球,http://smt.iktv.ddns-ip.net/Smart.php?id=foodplanet_twn
-纪录频道|亚洲TLC,http://smt.iktv.ddns-ip.net/Smart.php?id=tlc_twn
-纪录频道|亚洲旅游台,http://smt.iktv.ddns-ip.net/Smart.php?id=asiatravel_twn
-纪录频道|Fashion TV,http://smt.iktv.ddns-ip.net/Smart.php?id=fashiontv_twn
-纪录频道|History,http://smt.iktv.ddns-ip.net/Smart.php?id=History
-
-
-
-电影频道,#genre#
-
-电影频道|CCTV-6,http://smt.iktv.ddns-ip.net/Smart.php?id=cctv6
-电影频道|AXN Taiwan,http://smt.iktv.ddns-ip.net/Smart.php?id=axn_twn
-电影频道|HBO_HD,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohd_twn
-电影频道|HBO_HITS,http://smt.iktv.ddns-ip.net/Smart.php?id=hbohit_twn
-电影频道|CINEMAX,http://smt.iktv.ddns-ip.net/Smart.php?id=cinemax_twn
-电影频道|好萊塢電影台,http://smt.iktv.ddns-ip.net/Smart.php?id=hollywoodmovies_twn
-电影频道|东森电影,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvmovie
-电影频道|东森洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=ettvwestern
-电影频道|龙华电影,http://smt.iktv.ddns-ip.net/Smart.php?id=xingwei_movie
-电影频道|龙华洋片,http://smt.iktv.ddns-ip.net/Smart.php?id=lunghuawestern_twn
-电影频道|龙祥时代,http://smt.iktv.ddns-ip.net/Smart.php?id=lungxiangtime_twn
-电影频道|美亚电影,http://smt.iktv.ddns-ip.net/Smart.php?id=meiyamovie_twn
-电影频道|卫视电影台,http://smt.iktv.ddns-ip.net/Smart.php?id=weishimovie_twn
-电影频道|天映频道,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestial
-电影频道|天映频道,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestialindo
-电影频道|天映经典,http://smt.iktv.ddns-ip.net/Smart.php?id=Celestial2
-电影频道|Animax,http://smt.iktv.ddns-ip.net/Smart.php?id=Animax
-电影频道|Movies Now HD,http://smt.iktv.ddns-ip.net/Smart.php?id=moviesnow_raj
-电影频道|Star Movies HD,http://smt.iktv.ddns-ip.net/Smart.php?id=starmovies_raj
-电影频道|Hits,http://smt.iktv.ddns-ip.net/Smart.php?id=Hits
-电影频道|Warner TV,http://smt.iktv.ddns-ip.net/Smart.php?id=WarnerTV
-电影频道|HBO HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbo
-电影频道|HBO Signature,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbosignature
-电影频道|HBO Family,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbofamily
-电影频道|HBO Hits,http://smt.iktv.ddns-ip.net/Smart.php?id=Hbohitshd
-电影频道|Cinemax,http://smt.iktv.ddns-ip.net/Smart.php?id=Cinemax
-电影频道|Dreamworks,http://smt.iktv.ddns-ip.net/Smart.php?id=Dreamworks
-电影频道|SCM,http://smt.iktv.ddns-ip.net/Smart.php?id=Weishimovie
-电影频道|Thrill,http://smt.iktv.ddns-ip.net/Smart.php?id=Thrill
-电影频道|Hits Movie,http://smt.iktv.ddns-ip.net/Smart.php?id=Hitsmovie
-电影频道|One,http://smt.iktv.ddns-ip.net/Smart.php?id=One
-电影频道|tvN Movie,http://smt.iktv.ddns-ip.net/Smart.php?id=Tvnmovie
-电影频道|Axn HD,http://smt.iktv.ddns-ip.net/Smart.php?id=Axn
-电影频道|Paramount Network,http://smt.iktv.ddns-ip.net/Smart.php?id=Paramountnetwork
-电影频道|Astrol Kplus,http://smt.iktv.ddns-ip.net/Smart.php?id=Kplus
-电影频道|Rock Actions,http://smt.iktv.ddns-ip.net/Smart.php?id=Rockaction
-电影频道|Rock Entertainment,http://smt.iktv.ddns-ip.net/Smart.php?id=Rockentertain
-
-
-
-香港频道,#genre#
-
-香港|凤凰中文,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixtv_hd
-香港|凤凰资讯,http://smt.iktv.ddns-ip.net/Smart.php?id=phoenixinfo_hd
-香港|凤凰香港,http://smt.iktv.ddns-ip.net/Smart.php?id=hkphoenix_twn
-香港|翡翠台,http://smt.iktv.ddns-ip.net/Smart.php?id=jade_twn
-香港|翡翠台,http://smt.iktv.ddns-ip.net/Smart.php?id=Jade_xue
-香港|明珠台,http://smt.iktv.ddns-ip.net/Smart.php?id=pearl_twn
-香港|无线新闻,http://smt.iktv.ddns-ip.net/Smart.php?id=inews_twn
-香港|TVBPLUS,http://smt.iktv.ddns-ip.net/Smart.php?id=j2_twn
-香港|ViuTV,http://smt.iktv.ddns-ip.net/Smart.php?id=viu1_twn
-香港|ViuTV 6,http://smt.iktv.ddns-ip.net/Smart.php?id=viusix_twn
-香港|RTHK 31,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk31_twn
-香港|RTHK 32,http://smt.iktv.ddns-ip.net/Smart.php?id=rhk32_twn
-香港|HOY TV,http://smt.iktv.ddns-ip.net/Smart.php?id=hoycaijing_twn
-
-
-香港备用,#genre#
+港澳频道,#genre#
 
 凤凰中文,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 翡翠台,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
@@ -241,13 +80,19 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 
 内地频道,#genre#
 
+广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
+广东影视,https://tencentplaybusiness.gztv.com/live/yingshi.m3u8
+广东综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
+广东新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
+广东法制,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
+南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
+深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
 广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
 南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
 八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-海峡卫视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hxws
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
@@ -264,21 +109,18 @@ TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
 湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
 武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
-江西教育电视台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=jxjy
-西藏卫视,http://php.jdshipin.com:8880/xztv.php?id=ws
 
 
 
-海南备用,#genre#
+海南频道,#genre#
 
-海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
-三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
-海南自贸,http://nn.7x9d.cn/地方台8563/海南.php?id=jjpd
-海南新闻,http://nn.7x9d.cn/地方台8563/海南.php?id=xwpd
-海南公共,http://nn.7x9d.cn/地方台8563/海南.php?id=ggpd
-海南文旅,http://nn.7x9d.cn/地方台8563/海南.php?id=wlpd
-海南少儿,http://nn.7x9d.cn/地方台8563/海南.php?id=sepd
+海南卫视,http://192.168.1.128:5678/hainan.php?id=hnws
+三沙卫视,http://192.168.1.128:5678/hainan.php?id=ssws
+海南新闻,http://192.168.1.128:5678/hainan.php?id=xwpd
+海南自贸,http://192.168.1.128:5678/hainan.php?id=jjpd
+海南少儿,http://192.168.1.128:5678/hainan.php?id=sepd
+海南公共,http://192.168.1.128:5678/hainan.php?id=ggpd
+海南文旅,http://192.168.1.128:5678/hainan.php?id=wlpd
 海口频道1,http://183.255.46.4:16080/live/tv1001.m3u8
 海口频道2,http://183.255.46.4:16080/live/tv2502.m3u8
 海口频道3,http://183.255.46.4:16080/live/tv2503.m3u8
-星空卫视,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NCkgQXBwbGVXZWJLaXQvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lLzEzNy4wLjAuMCBTYWZhcmkvNTM3LjM2&hls=aHR0cDovLzU5LjM1LjE4NS4yMDA6OTkwMS90c2ZpbGUvbGl2ZS8wMTMzXzEubTN1OD9rZXk9dHhpcHR2JnBsYXlsaXZlPTEmZG93bj0x
