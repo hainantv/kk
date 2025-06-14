@@ -13,102 +13,88 @@
 
 
 
-港澳频道,#genre#
+广东频道,#genre#
 
-凤凰中文,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-翡翠台,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=fct
-TVB亚洲武侠,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-广东珠江,mytv.php?url=http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct2
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
-翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt
-明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-翡翠台北美版(TVB J1),http://php.jdshipin.com/TVOD/iptv.php?id=j1
-TVB J1,http://php.jdshipin.com/TVOD/iptv.php?id=tvbj1
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=j2
-TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv
-VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv
-HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰深圳旁边,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
-凤凰深圳旁边,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-美亚电影,http://php.jdshipin.com/TVOD/iptv.php?id=meiya
-重温经典,http://php.jdshipin.com/TVOD/iptv.php?id=cwjd
-广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
-广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
-澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam
-澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as
-RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31
-RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
-CCTV1祖国同胞版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-CH5,https://cdn6.163189.xyz/live/ch5/stream.m3u8
-CH8,https://cdn6.163189.xyz/live/ch8/stream.m3u8
-CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
-翡翠台,http://php.jdshipin.com/smt.php?id=jade_twn
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
-无线新闻台, http://php.jdshipin.com/smt.php?id=inews_twn
-TVB星河, http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh
-千禧经典台, http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
-TVB娱乐新闻台,http://php.jdshipin.com/smt.php?id=Tvbentertainment
-天映频道, http://php.jdshipin.com/smt.php?id=Celestial
-天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
-Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
-Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
-爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
-Astro QJ,http://php.jdshipin.com/smt.php?id=Quanjia
-Astro欢喜台,http://php.jdshipin.com/smt.php?id=Huahee
-八度空间,http://php.jdshipin.com/smt.php?id=TV8
-华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
-亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
-TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh
-TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
-TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-
-
-
-内地频道,#genre#
-
-广东体育,http://zb.xmzb.xyz/live_proxy.php?id=GDTIyu
-广东影视,https://tencentplaybusiness.gztv.com/live/yingshi.m3u8
-广东综合,https://tencentplaybusiness.gztv.com/live/zonghes.m3u8
-广东新闻,https://tencentplaybusiness.gztv.com/live/xinwen.m3u8
-广东法制,https://tencentplaybusiness.gztv.com/live/fazhi.m3u8
-南国都市,https://tencentplaybusiness.gztv.com/live/nanguodushi.m3u8
-深圳都市,http://livepull-tcms.sztv.com.cn/live/dslive.m3u8
-广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
 广州综合,http://php.jdshipin.com:8880/gztv.php?id=zhonghe
 广州新闻,http://php.jdshipin.com:8880/gztv.php?id=xinwen
-南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州竞赛,http://php.jdshipin.com:8880/gztv.php?id=jingsai
+广州影视,http://php.jdshipin.com:8880/gztv.php?id=yingshi
+广州法治,http://php.jdshipin.com:8880/gztv.php?id=fazhi
+广州南国都市,http://php.jdshipin.com:8880/gztv.php?id=shenghuo
+广州综合,http://tencentplaygzrb.gztv.com/sec/zonghes.m3u8
+广州新闻,http://tencentplaygzrb.gztv.com/sec/xinwen.m3u8
+广州竞赛,http://tencentplaygzrb.gztv.com/sec/jingsai.m3u8
+广州影视,http://tencentplaygzrb.gztv.com/sec/yingshi.m3u8
+广州法治,http://tencentplaygzrb.gztv.com/sec/fazhi.m3u8
+广州南国都市,http://tencentplaygzrb.gztv.com/sec/nanguodushi.m3u8
+东莞新闻综合,http://php.jdshipin.com:8880/0769.php?id=xwzh
 东莞生活资讯,http://php.jdshipin.com:8880/0769.php?id=shzx
-八度空间,https://cdn6.163189.xyz/live/8tv/stream.m3u8
-重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
-文物宝库,http://php.jdshipin.com:8880/hntv.php?id=wwbk
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj
-湖南电视剧,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl
-湖南娱乐,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy
-湖南电影,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndy
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs
-湖南经视,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
-湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg
-湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj
-湖南国际,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
-武术世界,http://php.jdshipin.com:8880/hntv.php?id=wspd
+佛山综合,http://php.jdshipin.com:8880/fstv.php?id=fszh
+佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
+佛山公共,http://php.jdshipin.com:8880/fstv.php?id=fsgg
+佛山南海,http://php.jdshipin.com:8880/fstv.php?id=fsnh
+佛山顺德,http://php.jdshipin.com:8880/fstv.php?id=fssd
+佛山高明,http://php.jdshipin.com:8880/fstv.php?id=fsgm
+佛山三水,http://php.jdshipin.com:8880/fstv.php?id=fsss
+揭阳综合,http://php.jdshipin.com:8880/tianma.php?id=jyzh
+揭阳生活,http://php.jdshipin.com:8880/tianma.php?id=jysh
+汕头综合,http://php.jdshipin.com:8880/TVOD/iptv.php?id=stzh
+广东卫视,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdws
+广东珠江,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdzj
+大湾区卫视,http://php.jdshipin.com:8880/TVOD/chudian.php?id=nfws
+广东民生,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdms
+广东新闻,http://php.jdshipin.com:8880/TVOD/chudian.php?id=xwpd
+广东经济科教,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdjjkj
+广东体育,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdty
+广东少儿,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdse
+广东影视,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdys
+嘉佳卡通,http://php.jdshipin.com:8880/TVOD/chudian.php?id=jjkt
+广东国际,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdgj
+广东移动,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdyd
+广东综艺4K,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gdzy
+肇庆综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=zqzh
+肇庆公共,http://php.jdshipin.com:8880/TVOD/chudian.php?id=zqgg
+四会新闻综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=shxwzh
+广宁综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gnzh
+怀集综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hjzh
+东莞新闻综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=dgxw
+东莞生活资讯,http://php.jdshipin.com:8880/TVOD/chudian.php?id=dggg
+惠州新闻综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hzxw
+惠阳台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hyt
+惠东台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hdt
+清远综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=qyzh
+梅州综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=mzzh
+河源综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hyzh
+河源公共,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hygg
+连平台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=lpt
+紫金台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=zjt
+和平台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hpt
+东源台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=dyt
+阳江1,http://php.jdshipin.com:8880/TVOD/chudian.php?id=yjtv1
+阳江2,http://php.jdshipin.com:8880/TVOD/chudian.php?id=yjtv2
+阳春台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=yct
+阳西综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=yxzh
+开平综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=kpzh
+开平生活,http://php.jdshipin.com:8880/TVOD/chudian.php?id=kpsh
+鹤山综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hszh
+台山台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=tst
+新会台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=xht
+恩平综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=epzh
+工布江达县广播电视台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=gbjd
+化州综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=hzzh
+信宜综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=xyzh
+廉江台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=ljt
+遂溪台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=sxt
+徐闻台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=xwt
+吴川台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=wct
+英德新闻综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=ydxwzh
+清新综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=qxzh
+连州综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=lzzh
+佛冈综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=fgzh
+普宁综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=pnzh
+潮安综合,http://php.jdshipin.com:8880/TVOD/chudian.php?id=cazh
+罗定台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=ldt
+乐昌台,http://php.jdshipin.com:8880/TVOD/chudian.php?id=lct
 
 
 
