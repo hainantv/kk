@@ -1,4 +1,4 @@
-海南备用,#genre#
+海南频道,#genre#
 
 海南卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=hnws
 三沙卫视,http://nn.7x9d.cn/地方台8563/海南.php?id=ssws
